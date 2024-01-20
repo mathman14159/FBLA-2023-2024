@@ -9,5 +9,9 @@ public class TriggerPickUps : MonoBehaviour
         {
             Destroy(other.gameObject);
         }
+        if(other.CompareTag("EnemyTop"))
+        {
+            Destroy(other.gameObject);
+        }
     }
 }

@@ -6,6 +6,36 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
+    path: Assets/Scenes/Opening scene.unity
+    guid: bd7242b092b50d24fa469c55694834b1
+  - enabled: 1
+    path: Assets/Scenes/Level Selection.unity
+    guid: ef6abaebbd2589747b3f7eb16bd049c0
+  - enabled: 1
+    path: Assets/Scenes/Levels/Level 1.unity
     guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Levels/Level 2.unity
+    guid: 71b95e59c689e9f48906c72a9158e46c
+  - enabled: 1
+    path: Assets/Scenes/Levels/Level 3.unity
+    guid: b13957f6f90e7924c91efd363391f6fd
+  - enabled: 1
+    path: Assets/Scenes/Levels/Death/Death lvl 1.unity
+    guid: f940abcf272fd6a4391deeab1eb51de2
+  - enabled: 1
+    path: Assets/Scenes/Levels/Death/Death lvl 2.unity
+    guid: 46c04b9626f5d4e408fbb8b100bcb04d
+  - enabled: 1
+    path: Assets/Scenes/Levels/Death/Death lvl 3.unity
+    guid: 5a7a0b0b6e33cd54bb80b93985cc7089
+  - enabled: 1
+    path: Assets/Scenes/Levels/Win/Win lvl 1.unity
+    guid: 8521b2a4c705f084e8af39fb1446c1c2
+  - enabled: 1
+    path: Assets/Scenes/Levels/Win/Win lvl 2.unity
+    guid: 8c7c6e56f4411774db62dcd24496dc96
+  - enabled: 1
+    path: Assets/Scenes/Levels/Win/Win lvl 3.unity
+    guid: 0d4f80ad6b4e2b0409317860cd3a09d2
   m_configObjects: {}

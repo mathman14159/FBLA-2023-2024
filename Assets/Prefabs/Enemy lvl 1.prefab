@@ -90,7 +90,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e789a602c0e642c4ebd8d89a78439f9e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  level: 0
+  level: 2
 --- !u!1 &8264558794202305601
 GameObject:
   m_ObjectHideFlags: 0
@@ -104,8 +104,9 @@ GameObject:
   - component: {fileID: 2552245552939469443}
   - component: {fileID: 3669647403009761404}
   - component: {fileID: 3041891783996710566}
+  - component: {fileID: 4311784447693438388}
   m_Layer: 0
-  m_Name: Enemy
+  m_Name: Enemy lvl 1
   m_TagString: EnemyTop
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -119,13 +120,13 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 8264558794202305601}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 6.5332, y: -3.22, z: 0}
+  m_LocalPosition: {x: 38.91, y: -0.38, z: 0}
   m_LocalScale: {x: 1.0775185, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 5011697983453620272}
   m_Father: {fileID: 0}
-  m_RootOrder: 0
+  m_RootOrder: 6
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &1965471446539775019
 SpriteRenderer:
@@ -296,3 +297,20 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 1, y: 1}
   m_EdgeRadius: 0
+--- !u!114 &4311784447693438388
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8264558794202305601}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 39eff0189883b8843afa41e6441c2e33, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  patrolPoints:
+  - {fileID: 0}
+  - {fileID: 0}
+  moveSpeed: 3
+  patrolDestination: 0

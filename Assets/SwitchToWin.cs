@@ -11,12 +11,7 @@ public class SwitchToWin : MonoBehaviour
     {
         
     }
-    private void OnTriggerEnter2D(Collider2D other) {
-        if(other.CompareTag("Player"))
-        {
-            OpenWin();
-        }
-     }
+   
 
     // Update is called once per frame
     public void OpenWin() {

@@ -504,7 +504,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 434343246}
-        m_TargetAssemblyTypeName: Question_Selector, Assembly-CSharp
+        m_TargetAssemblyTypeName: Level_Selector, Assembly-CSharp
         m_MethodName: OpenScene
         m_Mode: 1
         m_Arguments:
@@ -562,10 +562,10 @@ MonoBehaviour:
   m_GameObject: {fileID: 434343241}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7296521433a516e4cb6dcb8fa6d52598, type: 3}
+  m_Script: {fileID: 11500000, guid: 44525be059bbfaa4587eca669ad5a607, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  level: 2
+  level: 3
 --- !u!1 &603228253
 GameObject:
   m_ObjectHideFlags: 0

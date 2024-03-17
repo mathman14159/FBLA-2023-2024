@@ -13,7 +13,14 @@ public class Question_Selector : MonoBehaviour
     }
 
     // Update is called once per frame
-    public void OpenScene() {
+    private void OnTriggerEnter2D(Collider2D other) {
+        if(other.CompareTag("Player"))
+        {
+            OpenQuestion();
+        }
+     }
+
+    public void OpenQuestion() {
         SceneManager.LoadScene("Question " + level.ToString());
     }
 }

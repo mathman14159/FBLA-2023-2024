@@ -181,7 +181,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: '"I believe education is the key to unlocking the world"'
+  m_text: Coding, Money, Business, and Leadership
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: f5021b3108920db43bc4014d97b8adc1, type: 2}
   m_sharedMaterial: {fileID: 4366646952660983076, guid: f5021b3108920db43bc4014d97b8adc1, type: 2}
@@ -244,7 +244,7 @@ MonoBehaviour:
   m_VertexBufferAutoSizeReduction: 0
   m_useMaxVisibleDescender: 1
   m_pageToDisplay: 1
-  m_margin: {x: 6.9132385, y: 1.3168077, z: 6.913208, w: 0}
+  m_margin: {x: 12.404327, y: 1.3168077, z: 9.963806, w: 0}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
   m_hasFontAssetChanged: 0
@@ -316,7 +316,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: '"Furture Business Leaders of America"'
+  m_text: Furture Business Leaders of America
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: f5021b3108920db43bc4014d97b8adc1, type: 2}
   m_sharedMaterial: {fileID: 4366646952660983076, guid: f5021b3108920db43bc4014d97b8adc1, type: 2}
@@ -540,7 +540,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 44525be059bbfaa4587eca669ad5a607, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  level: 2
+  level: 3
 --- !u!1 &1111276480
 GameObject:
   m_ObjectHideFlags: 0
@@ -599,7 +599,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: '"I believe education is the right of every person."'
+  m_text: Active, Associate, Collegiate, and Honorary
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: f5021b3108920db43bc4014d97b8adc1, type: 2}
   m_sharedMaterial: {fileID: 4366646952660983076, guid: f5021b3108920db43bc4014d97b8adc1, type: 2}
@@ -662,7 +662,7 @@ MonoBehaviour:
   m_VertexBufferAutoSizeReduction: 0
   m_useMaxVisibleDescender: 1
   m_pageToDisplay: 1
-  m_margin: {x: 0, y: 2.633606, z: 1.1521912, w: 1.9751987}
+  m_margin: {x: 7.3214417, y: 2.633606, z: 10.303986, w: 1.9751987}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
   m_hasFontAssetChanged: 0
@@ -823,7 +823,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 057f7cb928a51d54990af7269ccdb473, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  level: 2
+  level: 3
 --- !u!1 &1464346239
 GameObject:
   m_ObjectHideFlags: 0
@@ -1077,7 +1077,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 44525be059bbfaa4587eca669ad5a607, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  level: 2
+  level: 3
 --- !u!1 &1526452978
 GameObject:
   m_ObjectHideFlags: 0
@@ -1228,7 +1228,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: What is the first line of the FBLA creed?
+  m_text: What were the first four kinds of FBLA membership?
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: f5021b3108920db43bc4014d97b8adc1, type: 2}
   m_sharedMaterial: {fileID: 4366646952660983076, guid: f5021b3108920db43bc4014d97b8adc1, type: 2}

@@ -44,4 +44,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Levels/Questions/Question 2.unity
     guid: 8aa7c58b3a29bed488da7fe02a753daf
+  - enabled: 1
+    path: Assets/Scenes/Levels/Questions/Question 3.unity
+    guid: c80afab6f54250447bc1af32102bde1c
   m_configObjects: {}
